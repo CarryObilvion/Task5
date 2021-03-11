@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <AnchorPane prefHeight="400.0" prefWidth="148.0" style="-fx-background-color: dbd7d2;">
+         <children>
+            <Button layoutX="27.0" layoutY="87.0" mnemonicParsing="false" onAction="#ClFin" prefHeight="59.0" prefWidth="94.0" style="-fx-background-radius: 20;" text="Finish">
+               <font>
+                  <Font name="Josefin Sans" size="18.0" />
+               </font></Button>
+            <Button layoutX="27.0" layoutY="14.0" mnemonicParsing="false" onAction="#ClSt" prefHeight="59.0" prefWidth="94.0" style="-fx-background-radius: 20;" text="State">
+               <font>
+                  <Font name="Josefin Sans" size="20.0" />
+               </font>
+            </Button>
+            <Button layoutX="27.0" layoutY="160.0" mnemonicParsing="false" onAction="#ClTr" prefHeight="59.0" prefWidth="94.0" style="-fx-background-radius: 20;" text="Transition">
+               <font>
+                  <Font name="Josefin Sans" size="18.0" />
+               </font>
+            </Button>
+            <Button layoutX="27.0" layoutY="327.0" mnemonicParsing="false" onAction="#Clean" prefHeight="59.0" prefWidth="94.0" style="-fx-background-radius: 20;" text="Clean">
+               <font>
+                  <Font name="Josefin Sans" size="20.0" />
+               </font>
+            </Button>
+         </children>
+      </AnchorPane>
+      <Pane fx:id="pane" layoutX="300.0" layoutY="141.0" prefHeight="177.0" prefWidth="221.0" />
+   </children>
+</AnchorPane>
