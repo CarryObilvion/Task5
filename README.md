@@ -22,11 +22,15 @@ Builder - это программный модуль, который испол�
 
 Проект построен согласно диаграмме классов.
 
-![Task555](https://user-images.githubusercontent.com/80450495/111902601-49caa980-8a4f-11eb-900c-4ceb05a0f9c5.png)
+![image](https://user-images.githubusercontent.com/80450495/119713912-ea33b480-be6a-11eb-86fd-e79875f08a77.png)
+
 
 Скриншот рабочего окна приложения
 
-![5 таск](https://user-images.githubusercontent.com/80450495/119030596-c546c980-b9b2-11eb-8478-a5c637f88b65.PNG)
+![image](https://user-images.githubusercontent.com/80450495/119713573-86a98700-be6a-11eb-8e68-d826dabbe32e.png)
+![image](https://user-images.githubusercontent.com/80450495/119713608-91fcb280-be6a-11eb-9799-2a7ebbf05146.png)
+![image](https://user-images.githubusercontent.com/80450495/119713647-99bc5700-be6a-11eb-964e-bdb042fa55af.png)
+
 
 
 
